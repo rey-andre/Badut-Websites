@@ -1,0 +1,20 @@
+.tulisan-blog h1,
+.tulisan-blog h2,
+.tulisan-blog h3,
+.tulisan-blog h4,
+.tulisan-blog li,
+.tulisan-blog p {
+	color: #467188;
+}
+.tulisan-blog h1 {
+	font-size: 34px;
+}
+.tulisan-blog h2 {
+	font-size: 28px;
+}
+.tulisan-blog h3 {
+	font-size: 23px;
+}
+.tulisan-blog p {
+	font-size: 18px;
+}
